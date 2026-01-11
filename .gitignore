@@ -1,0 +1,20 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Models and Large Binaries
+# Ignore large checkpoints but keep small config/model files
+backend/models/pretrained_ckpt
+pretrained_ckpt
+
+
+
+# System Files
+.DS_Store
+Thumbs.db
