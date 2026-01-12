@@ -1,0 +1,12 @@
+streamlit
+opencv-python
+numpy
+rmn
+pymongo
+pandas
+plotly
+pyttsx3
+keyboard
+deepface
+pillow
+tf-keras
